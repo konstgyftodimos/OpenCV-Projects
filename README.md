@@ -1,5 +1,5 @@
 # OpenCV-Projects
-A number of OpenCV projects are scripted: Image and Video Manipulation, Image and Video Thresholding, Color Thresholding. More info at Readme file.
+A number of OpenCV projects are executed: Image and Video Manipulation, Image and Video Thresholding, Color Thresholding. More info at Readme file.
 
 # Script 1 - opencv_image_manipulation_encrypted_painting.py
 In this script a string message is encrypted into the Mona Lisa painting and then decrypted:
